@@ -7,7 +7,7 @@ export const StoreContext = createContext(null);
 
 const StoreContextProvider = (props) => {
   const [cartItems, setCartItems] = useState({});
-  const url = "http://192.168.0.103:4000";
+  const url = "https://fullstack-food-app-backend.onrender.com";
   const [token, setToken] = useState("");
   const [foodList, setFoodList] = useState([]);
 
