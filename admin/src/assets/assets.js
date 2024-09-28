@@ -14,4 +14,4 @@ export const assets = {
   parcel_icon,
 };
 
-export const backendUrl = "http://192.168.0.103:4000";
+export const backendUrl = "https://fullstack-food-app-backend.onrender.com";
