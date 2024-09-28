@@ -9,7 +9,7 @@ import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
 function App() {
-  const backendUrl = "http://192.168.0.103:4000";
+  const backendUrl = "https://fullstack-food-app-backend.onrender.com";
   return (
     <div>
       <ToastContainer />
